@@ -1,0 +1,210 @@
+*, *::before, *::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:cornflowerblue;
+}
+
+.div-1{
+    width: 0; 
+    height: 0; 
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent; 
+    border-right: 60px solid darkmagenta; 
+    border-radius: 45%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:240px;
+    top: 0;
+    bottom: 290px;
+}
+
+.div-2{
+    width: 0; 
+    height: 0; 
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent; 
+    border-left: 60px solid darkmagenta; 
+    border-radius: 45%; 
+    position:absolute;
+    margin: auto;
+    right:240px;
+    left:0;
+    top: 0;
+    bottom: 290px;
+}
+
+.div-3{
+    width: 0; 
+    height: 0; 
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent; 
+    border-right: 60px solid yellow;
+    border-radius: 45%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:-30px;
+    top: 0;
+    bottom: 200px;
+}
+
+.div-4{
+    width: 0; 
+    height: 0; 
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent; 
+    border-right: 60px solid yellow;
+    border-radius: 45%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left: -80px;
+    top: 0;
+    bottom: 150px;
+}
+
+.div-5{
+    width: 0; 
+    height: 0; 
+    border-top: 150px solid transparent;
+    border-bottom: 150px solid transparent; 
+    border-right: 60px solid yellow;
+    border-radius: 45%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:10px;
+    top: 0;
+    bottom: 170px;
+}
+
+.div-6{
+    height: 300px;
+    width: 350px;
+    background-color:darkorange;
+    border-radius: 50% ;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:0;
+    top: 0;
+    bottom: 0;
+    box-shadow: 0 -19px 0 8px mediumspringgreen;
+}
+
+.div-6::before{
+    content: "";
+    height: 0;
+    width: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent; 
+    border-bottom: 180px solid white; 
+    border-radius: 20%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:-125px;
+    top: 0;
+    bottom: -125px;
+    clip-path: ellipse(185px 180px at 50% 0%);
+}
+
+.div-6::after{
+    content: "";
+    height: 0;
+    width: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent; 
+    border-top: 123px solid white; 
+    border-radius: 20%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:0;
+    top: 0;
+    bottom: 180px;
+    clip-path: ellipse(122px 100px at 50% 80%);
+}
+
+.div-7{
+    height: 30px;
+    width: 5px;
+    background-color:black;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:0;
+    top: 0;
+    bottom: -115px;
+}
+
+.div-7::before{
+    content: "";
+    width: 55px;
+    height: 100px;
+    border: solid 5px #000;
+    border-color: transparent transparent #000 transparent;
+    border-radius: 0 0  50% 240px;
+    position:absolute;
+    margin: auto;
+    right: 0;
+    left:-45px;
+    top: -70px;
+    bottom: 0;
+}
+
+.div-7::after{
+    content: "";
+    width: 50px;
+    height: 100px;
+    border: solid 5px #000;
+    border-color: transparent transparent #000 transparent;
+    border-radius: 0 0 240px 50%;
+    position:absolute;
+    margin: auto;
+    right: 0;
+    left:0;
+    top: -70px;
+    bottom: 0;
+}
+
+.div-8{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50% ;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:150px;
+    top: 0;
+    bottom: 350px;
+    box-shadow: -150px 0 0 0 black,
+    -150px 0 0 5px white,
+    0 0 0 5px white,
+    -150px 0 0 10px mediumspringgreen,
+    0 0 0 10px mediumspringgreen,
+    -100px 12px 0 -8px black,
+    -50px 12px 0 -8px black,
+    0 160px 0 9px black,
+    -150px 160px 0 9px black;
+}
+
+.div-8::before{
+    content: "";
+    height: 35px;
+    width: 45px;
+    background-color: black;
+    border-radius: 50%;
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:-150px;
+    top: 400px;
+    bottom: 0;
+}

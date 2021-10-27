@@ -1,13 +1,13 @@
-# CSS-Arts
+# CSS Arts
 
-## CSS-Art-1
+## CSS Art 1
 <img src="/images/1.png" width=100px height=100px> [CodePen Link for CSS-Art-1](https://codepen.io/S4ch1/full/BadpwRa)
 
-## CSS-Art-2
+## CSS Art 2
 <img src="/images/2.png" width=100px height=100px> [CodePen Link for CSS-Art-2](https://codepen.io/S4ch1/full/VwzpQQE)
 
-## CSS-Art-3
+## CSS Art 3
 <img src="/images/3.png" width=100px height=100px> [CodePen Link for CSS-Art-3](https://codepen.io/S4ch1/full/yLobbQa)
 
-## CSS-Art-3 Updated Version
+## CSS Art 3 Updated Version
 <img src="/images/CSS-Art3-Full.png" width=100px height=100px> [CodePen Link for CSS-Art-3-Updated](https://codepen.io/S4ch1/full/JjyJRpj)

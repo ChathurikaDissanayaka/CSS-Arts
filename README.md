@@ -8,3 +8,6 @@
 
 ## CSS-Art-3
 <img src="/images/3.png" width=100px height=100px> [CodePen Link for CSS-Art-3](https://codepen.io/S4ch1/full/yLobbQa)
+
+## CSS-Art-3 Updated Version
+<img src="/images/CSS-Art-3_full.png" width=100px height=100px> [CodePen Link for CSS-Art-3-Updated](https://codepen.io/S4ch1/full/JjyJRpj)

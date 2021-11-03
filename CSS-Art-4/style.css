@@ -1,0 +1,241 @@
+:root {
+    --main-bg-color:gold;
+    --secondary-bg-color:orange;
+}
+
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:dodgerblue;
+}
+
+/* Clouds */
+.div-1{
+    margin: auto;
+    position: absolute;
+    height: 120px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: white;
+    top: -80px;
+    bottom: 0;
+    left: 400px;
+    right: 0;
+    box-shadow:120px 20px 0 30px white,
+    60px -40px 0 0 white,
+    160px -40px 0 0 white,
+    250px 0 0 0 white;
+}
+
+.div-2{
+    margin: auto;
+    position: absolute;
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: white;
+    top: 330px;
+    bottom: 0;
+    left: -750px;
+    right: 0;
+    box-shadow:120px 20px 0 30px white,
+    60px -40px 0 0 white,
+    160px -40px 0 0 white,
+    250px 0 0 0 white;
+}
+
+.div-3{
+    margin: auto;
+    position: absolute;
+    height: 90px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: white;
+    top: -350px;
+    bottom: 0;
+    left: -970px;
+    right: 0;
+    box-shadow:120px 20px 0 30px white,
+    70px -40px 0 0 white,
+    170px -40px 0 0 white,
+    230px 0 0 0 white;
+}
+
+/* Sun */
+.div-4, .div-5, .div-6, .div-7, .div-8, .div-9, .div-10, .div-11{
+    width: 0; 
+    height: 0; 
+    position:absolute;
+    margin: auto;
+    right:0;
+    bottom: 0;
+}
+
+.div-4, .div-5{
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent; 
+    top: 0;
+}
+
+.div-4{
+    border-right: 150px solid var(--secondary-bg-color); 
+    left:-300px;
+}
+
+.div-5{
+    border-left: 150px solid var(--secondary-bg-color); 
+    left:300px;
+}
+
+.div-6, .div-7{
+    border-right: 40px solid transparent;
+    border-left: 40px solid transparent; 
+    left:0;
+}
+
+.div-6{
+    border-bottom: 150px solid var(--secondary-bg-color); 
+    top: -300px;
+}
+
+.div-7{
+    border-top: 150px solid var(--secondary-bg-color); 
+    top: 300px;
+}
+
+.div-8, .div-9{
+    border-right: 40px solid transparent;
+    border-left: 40px solid transparent; 
+    top: 210px;
+}
+
+.div-8{
+    border-top: 150px solid var(--secondary-bg-color); 
+    left:-210px;
+    transform: rotate(45deg);
+}
+
+.div-9{
+    border-top: 150px solid var(--secondary-bg-color);
+    left:210px;
+    transform: rotate(-45deg);
+}
+
+.div-10, .div-11{
+    border-right: 40px solid transparent;
+    border-left: 40px solid transparent; 
+    top: -210px;
+}
+
+.div-10{
+    border-bottom: 150px solid var(--secondary-bg-color); 
+    left:-210px;
+    transform: rotate(-45deg);
+}
+
+.div-11{
+    border-bottom: 150px solid var(--secondary-bg-color);  
+    left:210px;
+    transform: rotate(45deg);
+}
+
+/* Face */
+.div-12{
+    margin: auto;
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    background-color: var(--main-bg-color);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow:0 0 1px 1px var(--main-bg-color);
+}
+
+.div-12::before{
+    content:'';
+    margin: auto;
+    position: absolute;
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    background-color:white;
+    top: -30px;
+    bottom: 0;
+    left: 80px;
+    right: 0;
+    box-shadow: -80px 0 0 white,
+    -90px 10px 0 -2px white,
+    10px 10px 0 -2px white,
+    5px 5px 0 10px black,
+    -85px 5px 0 10px black;
+}
+
+.div-12::after{
+    content:'';
+    margin: auto;
+    position: absolute;
+    height: 20px;
+    width: 30px;
+    border-radius: 50%;
+    background-color:salmon;
+    top: 0;
+    bottom: -40px;
+    left: 100px;
+    right: 0;
+    box-shadow: -100px 0 0 salmon;
+}
+
+.div-13{
+    width: 50px;
+    height: 100px;
+    border: solid 5px #000;
+    border-color: transparent transparent #000 transparent;
+    border-radius: 0 0 240px 240px;
+    position:absolute;
+    margin: auto;
+    right: 0;
+    left:0;
+    top: -40px;
+    bottom: 0;
+}
+
+/*  */
+.div-1{
+    animation-duration: 3s;
+    animation-name: slide1;
+    animation-iteration-count: infinite;
+}
+
+.div-2 {
+    animation-duration: 3s;
+    animation-name: slide2;
+    animation-iteration-count: infinite;
+}
+
+.div-3{
+    animation-duration: 3s;
+    animation-name: slide3;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slide1 {
+    0%   {left:400px; top: -80px;}
+    25%  {left:200px; top:-80px;}
+}
+
+@keyframes slide2 {
+    0%   {left:-750px; top:330px;}
+    25%  {left:-950px; top:330px;}
+}
+
+@keyframes slide3 {
+    0%   {left:-970px; top:-350px;}
+    25%  {left:-1170px; top:-350px;}
+}

@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*, *::before, *::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(13, 13, 14);
+    text-align: center;
+}
+
+.div-1{
+    position:absolute;
+    margin: auto;
+    right:0;
+    left:0;
+    top: 0;
+    bottom: 0;
+}
+
+.title{
+    font-size:150px;
+    margin-top:50px;
+    font-family: 'Bebas Neue', cursive;
+    background: -webkit-linear-gradient(rgb(75, 9, 197), rgb(243, 8, 204));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation:updown 1.2s infinite;
+}
+
+@keyframes updown{
+    0%, 100%{
+        transform: translateY(0);
+    }
+
+    50%{
+        transform: translateY(1rem);
+    }
+}
+
+.heart {
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(247, 14, 111);
+    height: 150px;
+    width: 150px;
+    transform: rotate(-45deg);
+}
+
+.heart:after {
+    background-color: rgb(247, 14, 111);
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0px;
+    left: 75px;
+}
+
+.heart:before {
+    background-color: rgb(247, 14, 111);
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: -75px;
+    left: 0px;
+}
+
+.heart-2 {
+    position: absolute;
+    margin: auto;
+    top: 95px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(243, 84, 182);
+    height: 120px;
+    width: 120px;
+    transform: rotate(-45deg);
+    animation: beat 1.2s infinite;
+}
+
+.heart-2:after {
+    background-color: rgb(243, 84, 182);
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 0px;
+    left: 60px;
+}
+
+.heart-2:before {
+    background-color: rgb(243, 84, 182);
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: -60px;
+    left: 0px;
+}
+
+@keyframes beat {
+    0% {
+        transform: scale(1) rotate(-45deg);
+    }
+    50% {
+        transform: scale(0.6) rotate(-45deg);
+    }
+}
+
+@media (max-width: 1100px){
+    .title{
+        font-size:75px;
+    }
+}
+
+@media (max-width: 900px){
+    .title{
+        font-size:60px;
+    }
+}
+
+@media (max-width: 700px){
+    .title{
+        top:-100px;
+    }
+}
+
+@media (max-width: 500px){
+    .title{
+        font-size:30px;
+    }
+
+    .heart, .heart-2{
+        top:50px;
+    }
+}

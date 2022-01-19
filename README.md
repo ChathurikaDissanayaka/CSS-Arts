@@ -1,7 +1,8 @@
 # CSS Arts
 
 ## CSS Art 1
-<img src="/images/1.png" width=100px height=100px> 🔸[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)
+<img src="/images/1.png" width=100px height=100px> 
+🔸[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)
 
 ## CSS Art 2
 <img src="/images/2.png" width=100px height=100px> 🔸[CodePen Link](https://codepen.io/S4ch1/full/VwzpQQE)

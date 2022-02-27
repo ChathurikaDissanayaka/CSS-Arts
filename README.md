@@ -3,7 +3,7 @@
 ## CodePen Links
 
 ### 🔵 CSS Art 1
-<img src="/images/1.png" width=100px height=100px> <br><br>
+<img src="/images/1.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)<br>
 
 ### 🔵 CSS Art 2
 <img src="/images/2.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/VwzpQQE)<br>

@@ -1,5 +1,7 @@
 # CSS Arts
 
+Some of the CSS arts I've been working on.
+
 ## CodePen Links
 
 ### 🔵 CSS Art 1

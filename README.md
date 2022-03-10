@@ -18,7 +18,7 @@
 <img src="/images/4.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/LYjywzV)<br>
 
 ### 🔵 Heart Pixel Art
-<img src="/images/Heart.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/XWeEVrg)<br>
+<img src="/images/FNVVQekWYAQUmDY.jfif" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/XWeEVrg)<br>
 
 ### 🔵 CSS  Art 100 Days Of Code
 <img src="/images/hdc.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/ExwEKgz)<br>

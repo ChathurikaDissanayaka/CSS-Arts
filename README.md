@@ -25,3 +25,8 @@
 
 ### 🔵 Hearts - Pixel Art 2
 <img src="/images/Screenshot 2022-03-10 014902.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/YzEoBxW)<br>
+
+### 🔵 Pixel Art 3 - Hello Kitty
+<img src="/images/Screenshot 2022-03-11 221808.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/JjOgxpg)<br>
+
+

@@ -17,7 +17,7 @@
 ### 🔵 CSS Art 4
 <img src="/images/4.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/LYjywzV)<br>
 
-### 🔵 Heart - Pixel Art 1
+### 🔵  Pixel Art 1 - Heart
 <img src="/images/FNVVQekWYAQUmDY.jfif" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/XWeEVrg)<br>
 
 ### 🔵 CSS  Art 100 Days Of Code

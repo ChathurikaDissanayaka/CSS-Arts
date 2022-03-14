@@ -23,7 +23,7 @@
 ### 🔵 CSS  Art 100 Days Of Code
 <img src="/images/hdc.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/ExwEKgz)<br>
 
-### 🔵 Hearts - Pixel Art 2
+### 🔵 Pixel Art 2 - Hearts
 <img src="/images/Screenshot 2022-03-10 014902.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/YzEoBxW)<br>
 
 ### 🔵 Pixel Art 3 - Hello Kitty

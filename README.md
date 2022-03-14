@@ -11,7 +11,7 @@
 ### 🔵 CSS Art 3
 <img src="/images/3.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/yLobbQa)<br>
 
-### 🔵 CSS Art 3 Updated Version
+### 🔵 CSS Art 3 - Updated Version
 <img src="/images/CSS-Art3-Full.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/JjyJRpj)<br>
 
 ### 🔵 CSS Art 4

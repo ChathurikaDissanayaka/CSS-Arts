@@ -1,6 +1,6 @@
-# CSS Arts
+# CodePen Links to My CSS Arts and Pixel Arts
 
-## CodePen Links
+## CSS Arts
 
 ### 🔵 CSS Art 1
 <img src="/images/1.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)<br>

@@ -1,5 +1,7 @@
 <h1 align="center">CodePen Links to My CSS Arts and Pixel Arts</h1>
 
+<br><br>
+
 <h2>CSS Arts</h2>
 
 ### 🔵 CSS Art 1

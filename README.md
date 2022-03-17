@@ -1,4 +1,4 @@
-<h2 align="center">CodePen Links to My CSS Arts</h2>
+<h1 align="center">CodePen Links to My CSS Arts</h1>
 
 ### 🔵 CSS Art 1
 <img src="/images/1.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)<br>
@@ -18,7 +18,7 @@
 ### 🔵 CSS  Art - 100 Days Of Code
 <img src="/images/hdc.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/ExwEKgz)<br>
 
-<h2 align="center">CodePen Links to My Pixel Arts</h2>
+<h1 align="center">CodePen Links to My Pixel Arts</h1>
 
 ### 🔵  Pixel Art 1 - Heart
 <img src="/images/FNVVQekWYAQUmDY.jfif" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/XWeEVrg)<br>

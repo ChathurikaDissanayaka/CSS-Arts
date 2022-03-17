@@ -1,6 +1,6 @@
 # CodePen Links to My CSS Arts and Pixel Arts
 
-## CSS Arts
+<h2>CSS Arts</h2>
 
 ### 🔵 CSS Art 1
 <img src="/images/1.png" width=100px height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/BadpwRa)<br>
@@ -20,7 +20,7 @@
 ### 🔵 CSS  Art - 100 Days Of Code
 <img src="/images/hdc.png" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/ExwEKgz)<br>
 
-## Pixel Arts
+<h2>Pixel Arts</h2>
 
 ### 🔵  Pixel Art 1 - Heart
 <img src="/images/FNVVQekWYAQUmDY.jfif" width=auto height=100px> <br>[CodePen Link](https://codepen.io/S4ch1/full/XWeEVrg)<br>

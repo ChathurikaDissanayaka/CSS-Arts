@@ -1,4 +1,4 @@
-# CodePen Links to My CSS Arts and Pixel Arts
+<h1 align="center">CodePen Links to My CSS Arts and Pixel Arts</h1>
 
 <h2>CSS Arts</h2>
 
